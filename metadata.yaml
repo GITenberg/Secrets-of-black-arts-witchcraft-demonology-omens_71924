@@ -1,0 +1,40 @@
+_repo: Secrets-of-black-arts-witchcraft-demonology-omens_71924
+_version: 0.0.1
+alternative_title: 'Secrets of black arts :  witchcraft; demonology; omens'
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-10-21'
+identifiers:
+  gutenberg: '71924'
+language: en
+pgterms:marc904: https://archive.org/details/secretsofblackar00imot/page/n3/mode/2up
+pgterms:marc905: 20221230112946ottenheime
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Carol Brown, Steve Mattern and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBaltimore, MD :$bI. & M. Ottenheimer, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Occultism'
+- !lcsh 'Witchcraft'
+- !lcc 'BF'
+- GITenberg
+title: 'The secrets of black arts! : $b A key note to witchcraft, devination [sic],
+  omens, forwarnings, apparitions, sorcery, dæmonology, dreams, predictions, visions,
+  and the Devil''s legacy to earth mortals, compacts with the Devil! With the most
+  authentic history of Salem witchcraft'
+url: http://www.gutenberg.org/ebooks/71924
